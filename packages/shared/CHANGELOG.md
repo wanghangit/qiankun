@@ -1,5 +1,11 @@
 # @qiankunjs/shared
 
+## 0.0.1-rc.10
+
+### Patch Changes
+
+- feb544f0: fix: dynamic append element should support for the same container between micro apps
+
 ## 0.0.1-rc.9
 
 ### Patch Changes

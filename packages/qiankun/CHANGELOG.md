@@ -1,5 +1,18 @@
 # qiankun
 
+## 3.0.0-rc.16
+
+### Patch Changes
+
+- f09c1538: feat: pass container with parameters rather than getter function
+- feb544f0: fix: dynamic append element should support for the same container between micro apps
+- Updated dependencies [f09c1538]
+- Updated dependencies [feb544f0]
+- Updated dependencies [2e528c9d]
+  - @qiankunjs/sandbox@0.0.1-rc.13
+  - @qiankunjs/loader@0.0.1-rc.16
+  - @qiankunjs/shared@0.0.1-rc.10
+
 ## 3.0.0-rc.15
 
 ### Patch Changes

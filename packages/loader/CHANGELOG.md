@@ -1,5 +1,16 @@
 # @qiankunjs/loader
 
+## 0.0.1-rc.16
+
+### Patch Changes
+
+- feb544f0: fix: dynamic append element should support for the same container between micro apps
+- 2e528c9d: fix: prefer reading script.dataset.src in script load error message
+- Updated dependencies [f09c1538]
+- Updated dependencies [feb544f0]
+  - @qiankunjs/sandbox@0.0.1-rc.13
+  - @qiankunjs/shared@0.0.1-rc.10
+
 ## 0.0.1-rc.15
 
 ### Patch Changes
