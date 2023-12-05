@@ -7,7 +7,9 @@
     "@qiankunjs/sandbox": "0.0.1",
     "@qiankunjs/shared": "0.0.1",
     "@qiankunjs/react": "0.0.1",
-    "@qiankunjs/webpack-plugin": "0.0.1"
+    "@qiankunjs/webpack-plugin": "0.0.1",
+    "@qiankunjs/ui-shared": "0.0.0",
+    "@qiankunjs/vue": "0.0.0"
   },
   "changesets": [
     "big-cougars-draw",
@@ -16,6 +18,7 @@
     "green-pants-remember",
     "green-tools-wonder",
     "hungry-needles-doubt",
+    "itchy-pears-retire",
     "itchy-snakes-tell",
     "large-jokes-smile",
     "long-flies-repair",
@@ -34,12 +37,14 @@
     "shy-mayflies-shave",
     "silly-books-complain",
     "slow-timers-heal",
+    "smart-scissors-sell",
     "smooth-pillows-jam",
     "sour-roses-smile",
     "stale-dolls-push",
     "strong-rocks-sneeze",
     "swift-squids-vanish",
     "tender-dingos-allow",
+    "tender-pots-perform",
     "thin-ways-allow",
     "three-hornets-hammer",
     "tough-beers-grow",
